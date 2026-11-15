@@ -5,6 +5,9 @@
 ## 分类目录
 
 - [医学信息学](medical-informatics/README.md)
+  - [Benchmark 构建](medical-informatics/benchmark-construction/README.md)：可溯源评分、跨文献推理与分层评测。
+  - [知识图谱](medical-informatics/knowledge-graphs/README.md)：疾病机制、代谢组与文献证据路径。
+  - [知识抽取](medical-informatics/knowledge-extraction/README.md)：结构化证据、字段绑定与统计汇总。
   - [指南 + RAG](medical-informatics/guidelines-rag/README.md)：指南更新、证据使用与临床结论。
   - [用药知识图谱](medical-informatics/medication-kg/README.md)：用药证据、适用条件与可追溯问答。
   - [临床试验设计](medical-informatics/trial-design/README.md)：LLM、隐含变量与专家决策规则。

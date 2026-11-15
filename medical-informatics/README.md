@@ -1,5 +1,8 @@
 # 医学信息学
 
+- [Benchmark 构建](benchmark-construction/README.md)：Med Evidence Bench、FindLink / GI-TraceBench。
+- [知识图谱](knowledge-graphs/README.md)：Met-SC / MetKG-CRC，以及用药图谱索引。
+- [知识抽取](knowledge-extraction/README.md)：结构化科学证据抽取，以及 Starling 索引。
 - [指南 + RAG](guidelines-rag/README.md)：ChronoEvo，以及用药图谱的交叉索引。
 - [用药知识图谱](medication-kg/README.md)：儿童流感中成药循证问答，以及 Starling 的交叉索引。
 - [临床试验设计](trial-design/README.md)：TrialDesignBench。
