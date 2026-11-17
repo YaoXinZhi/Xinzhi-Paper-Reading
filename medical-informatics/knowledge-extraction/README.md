@@ -13,3 +13,5 @@
 **可借鉴：** 以研究、比较组和结局标识约束字段归属，每条记录保留原文；分别测字段准确率、整条记录准确率和最终统计。先验证记录的归属与单位，再用确定性代码汇总。
 
 **交叉阅读：** [Starling](../evidence-and-knowledge/README.md#starling)给出大规模证据抽取与溯源的实现；[MEB](../benchmark-construction/README.md#med-evidence-bench)将类似的分层评测思路用于临床推理。
+
+[DrugCon](../evidence-and-knowledge/README.md#drugcon)展示了如何先给同一药物–疾病的结论配对，再回到摘要核对解释分歧的研究条件。

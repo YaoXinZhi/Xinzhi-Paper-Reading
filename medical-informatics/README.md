@@ -8,6 +8,6 @@
 - [临床试验设计](trial-design/README.md)：TrialDesignBench。
 - [疾病轨迹建模](disease-trajectories/README.md)：Delphi-2M 用历史诊断预测后续疾病风险和发生时间。
 - [临床推理 + 动态检索](clinical-reasoning/README.md)：BELIEF 用诊断不确定性决定何时检索证据。
-- [循证与知识计算](evidence-and-knowledge/README.md)：Starling、Evidence Triangulator、生命历程风险路径、因果 DAG 调查与 EpiKG2DAG。
+- [循证与知识计算](evidence-and-knowledge/README.md)：DrugCon、Starling、Evidence Triangulator、生命历程风险路径、因果 DAG 调查与 EpiKG2DAG。
 
 团队阅读线索：[北京大学健康医疗大数据国家研究院杜建课题组](https://www.nihds.pku.edu.cn/info/1251/1534.htm)。相关笔记分布在「循证与知识计算」和「科研计量」，覆盖医学知识抽取、证据综合、因果假设组织及科学技术转化。
